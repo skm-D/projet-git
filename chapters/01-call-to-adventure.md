@@ -5,3 +5,4 @@
 [HERO]
 [VILLAIN]
 [HELPER]
+[HERO] Lira franchit la rivière, laissant derrière elle l’écho du vent.
