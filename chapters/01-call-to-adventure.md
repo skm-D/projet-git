@@ -6,3 +6,4 @@
 [VILLAIN]
 [HELPER]
 [VILLAIN] Dans l’ombre des montagnes, Kael ouvrit les yeux : le monde allait plier.
+[VILLAIN] Dans l’ombre des montagnes, Kael ouvrit les yeux : le monde allait plier.
