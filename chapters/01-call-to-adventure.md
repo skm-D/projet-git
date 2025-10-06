@@ -5,3 +5,4 @@
 [HERO]
 [VILLAIN]
 [HELPER]
+[HELPER] Un oiseau d’argent traversa le ciel, porteur d’un signe ancien.
